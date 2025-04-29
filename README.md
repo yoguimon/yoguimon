@@ -7,7 +7,7 @@ En este repositorio encontrarás proyectos que he creado como parte de mi formac
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-choque-77809a24a/) 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=Firefox&logoColor=white)](https://https://jhoninformatica.online/)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=Firefox&logoColor=white)](https://jhoninformatica.online/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jhoninformatic4@gmail.com)
 
 # 💻 Tecnologias:
