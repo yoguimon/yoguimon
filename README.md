@@ -6,7 +6,7 @@ En este repositorio encontrarás proyectos que he creado como parte de mi formac
 🌍 Inglés: B2 (Upper-Intermediate)  
 
 ## 🏅 Oracle Certified Associate:  
-[![Oracle Certified Associate](https://img.shields.io/badge/Oracle%20Certified%20Associate-%23000000.svg?logo=java&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CA067E9D38356C94B63647C780BD47BCEFFCFD3C343DCCCBEA8A8CB3EC307869)  
+[![Oracle Certified Associate](https://img.shields.io/badge/Oracle%20Certified%20Associate-%23FF0000.svg?logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CA067E9D38356C94B63647C780BD47BCEFFCFD3C343DCCCBEA8A8CB3EC307869)  
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-choque-77809a24a/) 
