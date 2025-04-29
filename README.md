@@ -3,7 +3,10 @@ Soy un programador backend junior con experiencia en el desarrollo de aplicacion
 En este repositorio encontrarás proyectos que he creado como parte de mi formación y crecimiento profesional, muchos de ellos aplicando buenas prácticas como el uso de control de versiones con Git, autenticación JWT y patrones de diseño.
 
 📚 Siempre estoy aprendiendo y mejorando mis habilidades, tanto en programación como en comunicación.  
-🌍 Inglés: B2 (Upper-Intermediate)
+🌍 Inglés: B2 (Upper-Intermediate)  
+
+## 🏅 Oracle Certified Associate:  
+[![Oracle Certified Associate](https://img.shields.io/badge/Oracle%20Certified%20Associate-%23000000.svg?logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CA067E9D38356C94B63647C780BD47BCEFFCFD3C343DCCCBEA8A8CB3EC307869)  
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-choque-77809a24a/) 
