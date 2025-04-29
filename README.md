@@ -1,8 +1,8 @@
 # 👋 Hola, soy Jhonny:
-Soy un programador backend junior con experiencia en el desarrollo de aplicaciones web utilizando Java con Spring Boot, MySQL, microservicios y APIs RESTful.
+Soy un programador backend junior con experiencia en el desarrollo de aplicaciones web utilizando Java con Spring Boot, MySQL, microservicios y APIs RESTful.  
 En este repositorio encontrarás proyectos que he creado como parte de mi formación y crecimiento profesional, muchos de ellos aplicando buenas prácticas como el uso de control de versiones con Git, autenticación JWT y patrones de diseño.
 
-📚 Siempre estoy aprendiendo y mejorando mis habilidades, tanto en programación como en comunicación.
+📚 Siempre estoy aprendiendo y mejorando mis habilidades, tanto en programación como en comunicación.  
 🌍 Inglés: B2 (Upper-Intermediate)
 
 ## 🌐 Redes:
